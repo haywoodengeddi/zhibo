@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://haywoodengeddi.github.io/zhibo/ios/app/zhibo2.ipa</string>
+					<string>https://haywoodengeddi.github.io/zhibo/ios/app/mytest.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.daotop.mytest</string>
+				<string>top.mars2722.zhibo</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
